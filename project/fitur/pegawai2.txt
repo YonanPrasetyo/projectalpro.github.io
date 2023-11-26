@@ -1,0 +1,36 @@
+3301072304050005
+Yovi Tito
+Adipala
+UI/UX Designer
+III-C
+10
+15
+100
+----------
+3301072611040002
+Yonan Prasetyo
+Cilacap
+Back-End Dev
+IV-A
+2
+20
+125
+----------
+3301045102060001
+Rina Nur
+Binangun
+UI/UX Designer
+IV-B
+0
+20
+100
+----------
+3301071405030001
+Ego Irfandi
+Adipala
+Front-End Dev
+IV-A
+4
+19
+120
+----------

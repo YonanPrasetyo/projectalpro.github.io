@@ -1,0 +1,81 @@
+3301071405030001
+Ego Irfandi
+Adipala
+Front-End Dev
+IV-A
+4
+19
+120
+----------
+3301072304050005
+Yovi Tito
+Adipala
+UI/UX Designer
+III-C
+10
+15
+100
+----------
+3301072611040002
+Yonan Prasetyo
+Cilacap
+Ketua Team
+IV-A
+2
+20
+125
+----------
+3301045102060001
+Rina Nur
+Binangun
+UI/UX Designer
+IV-B
+0
+20
+100
+----------
+3302032304980002
+Devi Aryani
+Kesugihan
+Digital Marketing
+IV-C
+1
+18
+130
+----------
+3301054207990001
+Catur Rizki
+Jeruk Legi
+Cyber Security
+IV-A
+3
+24
+196
+----------
+3303041708020002
+Anisatun
+Cilacap
+Staff Administrasi
+III-B
+0
+12
+100
+----------
+3102086207010003
+Putri Eka
+Purwokerto
+Sekretaris
+III-C
+2
+15
+120
+----------
+3105071206950001
+Murifal
+Majenang
+Quality Assurance
+III-A
+4
+24
+170
+----------

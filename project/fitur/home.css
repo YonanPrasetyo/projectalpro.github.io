@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    /*color: #dce0e8;*/
+}
+
+@media screen and (max-height: 450px){}
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    /* background-color: rgba(0, 0, 0, 0.959); */
+    background-color: rgb(23, 146, 153);
+}
+
+aside {
+    color: white;
+    background-color: #11111b;
+    height: 100%;
+    font-size: 13px;
+    position: fixed;
+		z-index: 1;
+}
+
+aside .pilihan {
+    background-color: #181825;
+		margin: 0px 10px;
+		padding: 5px 15px;
+		border-radius: 3px;
+}
+
+aside .pilihan p{
+    padding: 5px 15px;
+    position: relative;
+    z-index: 2;
+}
+
+
+aside .pilihan p a{
+	margin-left: 7px;
+}
+
+aside .pilihan a::before{
+    content: "";    
+    background-color: cyan;
+    position: absolute;
+    width: 0;
+    height: 1px;
+    bottom: -3px;
+    left:0;
+    z-index: -1;
+    transition: 0.2s;
+}
+
+aside .pilihan a:hover::before{
+    left: 0;
+    width: 100%;
+}
+
+aside a {
+    text-decoration: none;
+    color: white;
+    transition: 0.2s;
+}
+
+aside a:hover{
+    color: wheat;
+}
+
+main, .kanan{
+		margin: 9px 35px 10px 223px;
+		float: left;
+		width: 83%;
+    padding: 10px 30px 30px 30px;
+    background-color: #11111b;
+		color: #dce0e8;
+    /*box-shadow: 0px 0px 2px 2px #11111ba5;*/
+    border-radius: 4px;
+}
+
+aside .selected {
+    background-color: rgba(255, 253, 253, 0.068);
+    border-radius: 7px;
+}
+
+
+.selected a {
+    color: white;
+    font-weight: 600;
+}
+
+input, select {
+    background-color: rgba(17, 17, 27,0.1);
+    outline: none;
+		border: 1px solid rgba(255, 255, 255,0.1);
+		border-radius: 4px;
+		margin: 4px 0px;
+		height: 30px;
+		padding: 0px 7px;
+    color: white;
+		transition: 150ms;
+}
+
+
+input:hover {
+	border: 1px solid rgba(255,255,255,0.4);
+}
+
+input:focus {
+	border: 1px solid rgba(148, 226, 213,0.4);
+}
+
+button {
+    background-color: rgb(137, 220, 235);
+		color: black;
+		border:1px solid rgba(137, 220, 235,0.9);
+		padding: 7px 15px;
+		border-radius: 3px;
+		transition: 50ms;
+}
+
+button:active {
+	border: 1px dotted whitesmoke;
+}
+
+button:hover {
+	background-color: rgba(137, 220, 235,0.9);
+	color: whitesmoke;
+}
+
+hr {
+	border-color: rgba(0,0,0,0.5);
+}
+
+select {
+    background-color: #11111b;
+    color: white;
+}
+
+.hilangkan {
+		display: none;
+}
+
+.logo {
+	margin: 0px 0px 5px 0px;
+	padding: 12px 0px;
+	background-color: #11111b;
+}
+
+.merah {
+    color: teal;
+}
+
